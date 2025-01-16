@@ -8,7 +8,7 @@ In the future, features like **AI-based product recognition** and **household ma
 
 ## Poster
 
-[![Poster Preview](./assets/poster.png)](./assets/poster.pdf)
+![Poster](./assets/poster.png)
 
 ---
 
