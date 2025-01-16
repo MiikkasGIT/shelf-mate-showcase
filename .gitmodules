@@ -1,0 +1,15 @@
+[submodule "scan-interface"]
+	path = scan-interface
+	url = https://github.com/shelf-mate/scan-interface
+[submodule "backend"]
+	path = backend
+	url = https://github.com/shelf-mate/backend
+[submodule "scan-server"]
+	path = scan-server
+	url = https://github.com/shelf-mate/scan-server
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/shelf-mate/webapp
+[submodule "api-client-ts"]
+	path = api-client-ts
+	url = https://github.com/shelf-mate/api-client-ts
